@@ -1,0 +1,3 @@
+%{
+  "chat": {:git, "https://github.com/gettingud/elixir-terminal-chat.git", "89efc6eded286860304fb443d056772beb1cf0c2", [branch: "master"]},
+}
